@@ -1,0 +1,15 @@
+.poll {
+    font-size: 8;
+    margin: 1px;
+    padding: 1px;
+    color: #fff;
+}
+
+.sidebar {
+    transform: translateX(-100%);
+    transition: all 0.4s ease-in-out;
+}
+
+.collapse {
+    transform: translateX(0%);
+}
